@@ -13,7 +13,7 @@ In order to get this notebook work, it is needed to Log In [Climate Data Store](
 
 ## Contact
 
-If you have any questions or suggestions, feel free to open an issue or contact me via [email](juansblandon@gmail.com).
+If you have any questions or suggestions, feel free to open an issue or contact me via [email](juansblandon@gmail.com). If you want to know more from my work visit *Juan Sebastian Blandon <a dir="ltr" href="https://orcid.org/0009-0002-9995-9619" target="_blank"><img class="is-rounded" src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" width="15"></a>*
 
 [![DOI](https://zenodo.org/badge/904524102.svg)](https://doi.org/10.5281/zenodo.14509961)
 
