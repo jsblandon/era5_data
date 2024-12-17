@@ -14,3 +14,7 @@ In order to get this notebook work, it is needed to Log In [Climate Data Store](
 ## Contact
 
 If you have any questions or suggestions, feel free to open an issue or contact me via [email](juansblandon@gmail.com).
+
+[![DOI](https://zenodo.org/badge/904524102.svg)](https://doi.org/10.5281/zenodo.14509961)
+
+**Please cite this repo as:** Juan Sebastian Blandon. (2024). jsblandon/era5_data: ERA5 Data Download and Management: first Release (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.14509962
