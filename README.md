@@ -4,7 +4,7 @@ Python code for download and manage data from Climate Data Store for ECMWF Reana
 
 ## Repository Content
 
-* `era5_data_download_management_gh.ipynb`: Google Colab notebook for download the data and plotting
+`era5_data_download_management_gh.ipynb`: Google Colab notebook for download the data and plotting
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="100" class="center">
 </p>
